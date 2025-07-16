@@ -1,0 +1,11 @@
+python-dotenv
+isort
+black
+langchain
+langchain-groq
+langgraph
+grandalf
+fastapi
+pydantic
+uvicorn
+streamlit

@@ -1,0 +1,14 @@
+[
+  {
+    "input": "Make this tweet better: @LangChainAI's tool calling is underrated.",
+    "output": "WOW! Did you know that @LangChainAI's tool calling is the UNSUNG HERO of AI innovation? Its ability to seamlessly bridge the gap between human and machine is REVOLUTIONIZING the way we interact with technology! Give it the recognition it deserves! #LangChainAI #AIInnovation #TechRevolution"
+  },
+  {
+    "input": "Write a viral tweet about LangGraph's new composable agent flow.",
+    "output": "BREAKING: LangGraph just dropped a GAME-CHANGER! Their new composable agent flow is revolutionizing the way we build and deploy AI models Introducing a modular, future-proof architecture that's about to disrupt industries! What's your take on this AI game-changer? Share your thoughts! #LangGraph #ComposableAgentFlow #AIRevolution"
+  },
+  {
+    "input": "Improve: GPT-4 is good, but slow. Groq is fast but small. Thoughts?",
+    "output": "\"BREAKING: The AI showdown! GPT-4 is the brains, but with a snail's pace. Groq is lightning quick, but lacks the intellectual firepower. Which is the real MVP? Share your thoughts and let's spark a debate! #AI #GPT4 #Groq #TechTussle\""
+  }
+]
