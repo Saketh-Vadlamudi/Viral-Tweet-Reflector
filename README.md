@@ -1,7 +1,7 @@
 
 # 🧠 Viral Tweet Reflector
 
-Improve your tweets with AI-powered feedback and rewriting to make them more viral, clear, and stylish. This project leverages the power of LangGraph for intelligent agent orchestration, FastAPI for a robust backend API, and Streamlit for an interactive web interface.
+Improve your tweets with AI-powered feedback and rewriting to make them more viral, clear, and stylish. This project leverages the power of LangGraph for intelligent agent orchestration, FastAPI for a robust backend API, and Streamlit for an interactive web interface. 
 
 --- 
 
