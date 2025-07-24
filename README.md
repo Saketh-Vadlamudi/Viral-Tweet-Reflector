@@ -123,7 +123,7 @@ Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) to check the API.
 In a new terminal:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run streamlit/app.py
 ```
 
 Visit [http://localhost:8501](http://localhost:8501) in your browser.
