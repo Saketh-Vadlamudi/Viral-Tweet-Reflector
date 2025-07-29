@@ -50,6 +50,8 @@ viral-tweet-agent/
 ├── scripts/
 │   ├── run_agent.py
 │   └── evaluate_agent.py
+├── demo/
+│   └── demo_video
 └── src/
     ├── __init__.py
     ├── agents/
